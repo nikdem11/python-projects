@@ -1,1 +1,1 @@
-Skrypty wykorzystujące bibliotekę Beautiful Soup do pobierania wybranych danych ze stron internetowych.
+Skrypty wykorzystujące bibliotekę Beautiful Soup do web scrapingu z wybranych stron internetowych.
