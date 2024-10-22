@@ -1,7 +1,8 @@
   Skrypt dokonujący losowania drużyn.
 
   Zawodników należy zapisać w pliku players.txt.
-Wzór (indeksy zawodników są wymagane):
+  
+  Wzór (indeksy zawodników są wymagane):
 1. Piłkarz_1
 2. Piłkarz_2
 3. Piłkarz_3
