@@ -1,0 +1,1 @@
+Folder na zbiór danych.

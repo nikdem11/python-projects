@@ -1,0 +1,1 @@
+Folder na modele klasyfikacyjne w formacie .keras .
