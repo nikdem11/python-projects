@@ -1,1 +1,1 @@
-Implementacja zawierająca aplikację użytkownika oraz budowanie modelu.
+Implementacja aplikacji użytkownika oraz narzędzi do budowy modelu klasyfikującego.

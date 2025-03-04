@@ -1,1 +1,1 @@
-Folder na modele klasyfikacyjne w formacie .keras .
+Folder na modele klasyfikacyjne (format .keras).
