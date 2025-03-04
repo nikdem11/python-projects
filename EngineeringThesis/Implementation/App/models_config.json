@@ -1,0 +1,16 @@
+{
+    "models": {
+        "model1": {
+            "name": "model50",
+            "description": "Dataset v1"
+        },
+        "model2": {
+            "name": "model100v2",
+            "description": "Dataset v2"
+        },
+        "model3": {
+            "name": "model60v3",
+            "description": "Dataset v3"
+        }
+    }
+}
