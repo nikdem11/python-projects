@@ -1,0 +1,1 @@
+Implementacja zawierająca aplikację użytkownika oraz budowanie modelu.
